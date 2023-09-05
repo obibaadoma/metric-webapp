@@ -1,0 +1,21 @@
+.upperpart {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 170px;
+  padding: 20px;
+  background-color: rgb(241, 145, 217);
+  color: white;
+}
+
+.box {
+  background-color: rgb(133, 40, 110);
+  width: 100%;
+  margin: auto;
+  color: white;
+}
+
+.flag {
+  width: 140px;
+  height: 150px;
+}
