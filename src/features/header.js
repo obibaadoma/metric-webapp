@@ -14,7 +14,7 @@ const Header = ({ children }) => (
         <IoIosArrowBack />
         {' '}
       </NavLink>
-      <p>Best Technology Posts</p>
+      <p>LATEST TECH POST</p>
       <div className="insidebox">
         <p className="headicon"><FaMicrophone /></p>
         <p className="headicon"><AiOutlineSetting /></p>
