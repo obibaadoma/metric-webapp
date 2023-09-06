@@ -8,8 +8,8 @@ describe('Test specific post', () => {
   it('renders correctly', () => {
     const post = [
       {
-        id: 2424923,
-        info: 'Zombie startups',
+        id: 20126684,
+        info: 'Cartoon StartUp',
       },
     ];
 
