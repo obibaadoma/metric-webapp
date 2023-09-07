@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { Provider } from 'react-redux';
 import { render, screen } from '@testing-library/react';
 import Home from '../home';

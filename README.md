@@ -42,8 +42,6 @@ You will select an API that provides numeric data about a topic that you like an
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -73,9 +71,6 @@ You will select an API that provides numeric data about a topic that you like an
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-<!-- > Describe between 1-3 key features of the application. -->
-
 - **[Use a minimalist style to build the project]**
 - **[Best practices of ES6 syntax]**
 - **[Use of React to the functionalities of the page]**
@@ -84,7 +79,7 @@ You will select an API that provides numeric data about a topic that you like an
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://space-travelers-hub-2.onrender.com/)
+- [Live Demo Link](https://obibaadoma.github.io/metric-webapp/)
 
 
 <!-- GETTING STARTED -->
@@ -100,15 +95,6 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need: 
 
 None
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -127,15 +113,6 @@ Example commands:
 Install this project with:
 
 No install require
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 To run the project, execute the following command:
@@ -143,37 +120,7 @@ To run the project, execute the following command:
 - go to the folder where you cloned the repository
 - Open the index.html file with your favorite web browser
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-<!-- ### Run tests
-
-To run tests, run the following command: -->
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-<!-- ### Deployment
-
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+<
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,11 +128,9 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-<!-- > Mention all of the collaborators of this project. -->
-
 👤 **Derek Akrasi Konadu**
 
-- GitHub: [@githubhandle](https://obibaadoma.github.io/potfolio-desktop/)
+- GitHub: [@githubhandle](https://wwww.github.com/obibaadoma/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iderek-akrasi-konadu-187453151/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -193,8 +138,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-<!-- > Describe 1 - 3 features you will add to the project. -->
 
 - [ ] **[Add more style to the project]**
 - [ ] **[Improve accessibility of the page]**
@@ -207,8 +150,6 @@ Example:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/victormc13/Metric-Webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,6 +166,8 @@ If you like this project you can reach out with me in [viktorsb14@gmail.com](htt
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+ Thanks to Nelson Sakwa for giving us the template, and granting us the needed permission to use 
+ his work in our project
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 I would like to thank Microverse for giving us this opportunity.
@@ -252,7 +195,5 @@ I would like to thank Microverse for giving us this opportunity.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](MIT.md) licensed.
-
-<!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
