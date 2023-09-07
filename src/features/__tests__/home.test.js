@@ -1,16 +1,16 @@
-/* eslint-disable no-unused-vars */
 import { Provider } from 'react-redux';
 import { render, screen } from '@testing-library/react';
 import Home from '../home';
 import store from '../../app/store';
 
-describe('Test specific post', () => {
+describe('Test the Post list', () => {
   it('renders correctly', () => {
     const post = [
       {
-        id: 20126684,
-        info: 'Cartoon StartUp',
+        id: 2424923,
+        info: 'Zombie startups',
       },
+
     ];
 
     const { container } = render(
@@ -18,6 +18,8 @@ describe('Test specific post', () => {
         <Home />
       </Provider>,
     );
+    console.log(post);
+    console.log(container);
     const message = screen.getByText('Enter a valid post!');
     expect(message).toMatchSnapshot();
   });

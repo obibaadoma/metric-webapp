@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`App Renders Correctly 1`] = `
 <main>
   <header
     className="head"
@@ -38,7 +38,7 @@ exports[`renders correctly 1`] = `
        
     </a>
     <p>
-      Best Technology Posts
+      LATEST TECH POST
     </p>
     <div
       className="insidebox"
@@ -89,5 +89,46 @@ exports[`renders correctly 1`] = `
       </p>
     </div>
   </header>
+  <div
+    className="uppediv"
+  >
+    <h4
+      style={
+        Object {
+          "width": "50%",
+        }
+      }
+    >
+      More info
+    </h4>
+  </div>
+  <div
+    className="searchitems"
+  >
+    <h4
+      className="headtext"
+    >
+      Explanaton
+    </h4>
+    <div
+      className="search"
+    >
+      <input
+        className="input-search"
+        onChange={[Function]}
+        placeholder="Search by post"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="holder"
+  >
+    <div
+      className="heading"
+    >
+      Enter a valid post!
+    </div>
+  </div>
 </main>
 `;
