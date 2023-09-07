@@ -104,10 +104,8 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/victormc13/Metric-WebApp.git
+  git clone https://github.com/obibaadoma/Metric-WebApp.git
 ```
-
-
 ### Install
 
 Install this project with:
@@ -173,24 +171,6 @@ If you like this project you can reach out with me in [viktorsb14@gmail.com](htt
 I would like to thank Microverse for giving us this opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-<!-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 

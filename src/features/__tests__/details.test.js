@@ -17,8 +17,6 @@ describe('Test specific post', () => {
         <Home />
       </Provider>,
     );
-    console.log(post);
-    console.log(container);
     const message = screen.getByText('Enter a valid post!');
     expect(message).toMatchSnapshot();
   });

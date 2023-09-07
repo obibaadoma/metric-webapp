@@ -10,7 +10,6 @@ describe('Test the Post list', () => {
         id: 2424923,
         info: 'Zombie startups',
       },
-
     ];
 
     const { container } = render(
@@ -18,8 +17,6 @@ describe('Test the Post list', () => {
         <Home />
       </Provider>,
     );
-    console.log(post);
-    console.log(container);
     const message = screen.getByText('Enter a valid post!');
     expect(message).toMatchSnapshot();
   });
