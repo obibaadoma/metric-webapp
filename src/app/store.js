@@ -2,7 +2,7 @@ import { createStore, combineReducers, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
 import logger from 'redux-logger';
 import myReducer from './apis/wiki';
-import detailsReducer from './apis/details';
+import detailsReducer from './apis/detail';
 
 const rootReducer = combineReducers({
   myred: myReducer,

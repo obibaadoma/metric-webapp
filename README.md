@@ -8,7 +8,6 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -17,6 +16,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Presentation Video ](#-presentation-video-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -79,8 +79,10 @@ You will select an API that provides numeric data about a topic that you like an
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://obibaadoma.github.io/metric-webapp/)
+- [Live Demo Link](https://setupbranch--transcendent-biscotti-5fc28d.netlify.app//)
 
+## 🚀 Presentation Video <a name="presentation-video"></a>
+[Video Presentation Link][https://www.loom.com/share/cf69a53dbf3847b8b6267c67e630a743?sid=47ab3844-f411-4b02-858e-2889adbd9673]
 
 <!-- GETTING STARTED -->
 
@@ -157,7 +159,7 @@ Contributions, issues, and feature requests are welcome!
 
 <!-- > Write a message to encourage readers to support your project -->
 
-If you like this project you can reach out with me in [viktorsb14@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTFRNbbSKvZLwhKjGJJDwlhjKRmHdPTqtVPKffQqwwFSMxWfvFFPBGLfxrkBXNTxKHDWhR)
+If you like this project you can reach out with me via [akrasikonadu@yahoo.com]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
-import { displayPostInfo } from '../app/apis/details';
+import { displayPostInfo } from 'src/app/apis/details';
+import Details from '../../app/apis/detail.js';
 import './details.css';
 
 const Details = () => {

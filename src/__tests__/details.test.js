@@ -1,14 +1,14 @@
 import { Provider } from 'react-redux';
 import { render, screen } from '@testing-library/react';
-import Home from '../home';
-import store from '../../app/store';
+import Home from '../container/Home/home';
+import store from '../app/store';
 
-describe('Test the Post list', () => {
+describe('Test specific post', () => {
   it('renders correctly', () => {
     const post = [
       {
-        id: 2424923,
-        info: 'Zombie startups',
+        id: 20126684,
+        info: 'Cartoon StartUp',
       },
     ];
 

@@ -3,7 +3,7 @@ import './home.css';
 import { useDispatch, useSelector } from 'react-redux';
 import { BsArrowRightCircle } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
-import { displayPosts } from '../app/apis/wiki';
+import { displayPosts } from '../../app/apis/wiki';
 // import handleSearch from './filter';
 
 const Home = () => {
