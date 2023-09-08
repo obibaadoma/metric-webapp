@@ -2,10 +2,10 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import { displayPostInfo } from 'src/app/apis/details';
-import Details from '../../app/apis/detail.js';
+
 import './details.css';
 
-const Details = () => {
+const Data = () => {
   const param = useParams();
   const postss = useSelector((store) => store.details);
   const filtered = postss.filter((item) => item.rendered === param.rendered);
@@ -43,4 +43,4 @@ const Details = () => {
   );
 };
 
-export default Details;
+export default Data;

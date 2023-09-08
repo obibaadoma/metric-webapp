@@ -1,4 +1,4 @@
-const LOAD = 'reactcapstone/apis/LOAD';
+const LOAD = 'metric-webapp/apis/LOAD';
 
 const init = [];
 
