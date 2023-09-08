@@ -1,0 +1,12 @@
+.head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(133, 40, 110);
+  color: white;
+}
+
+.insidebox {
+  display: flex;
+}
